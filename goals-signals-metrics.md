@@ -114,7 +114,7 @@ For example, some signals around reliability might be:
 
 * Human effort spent resolving production incidents.
 * Human time spent debugging deployment failures.
-* Number of users who experienced a failure in their workflow due to a bug
+* Number of users who experienced a failure in their workflow due to a bug.
 * Amount of time lost by users trying to work around failures.
 * How reliable LinkedIn's products are according to the _belief_ of our users.
 * User-perceived latency for each action taken by users.
